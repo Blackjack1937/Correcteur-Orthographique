@@ -1,14 +1,4 @@
-# TP-3 Algorithmique : Correcteur Orthographique
-
-## Fait par : RIDAOUI Hatim et AHABCHANE Salma
-
-## Encadrant : M. ROGET Mathieu
-
-## Filière : Licence 3 Informatique
-
-## Année : 2023-2024
-
-
+# Correcteur Orthographique
 ---
 
 ### Description du Projet
@@ -99,7 +89,6 @@ Ce projet est sous licence Apache 2.0. Pour plus de détails, veuillez consulter
 ---
 
 ### Sources
-- **Fichiers sources** : https://ametice.univ-amu.fr/mod/folder/view.php?id=3228028
 - **Théorie** : "Introduction a l'algorithmique" et notes de cours.
 - **Wikipédia** : https://fr.wikipedia.org/wiki/Distance_de_Levenshtein
 - **TP Univ. Paris-Diderot** : https://www.linguist.univ-paris-diderot.fr/~amsili/Ens20/pdf/tp_l8dn003_20_04_cor_q3.pdf
